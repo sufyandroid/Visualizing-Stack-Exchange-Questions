@@ -1,1 +1,1 @@
-## Visualizing stack exchange question
+## Visualizing Stack Exchange Questions
